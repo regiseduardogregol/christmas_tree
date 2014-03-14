@@ -1,7 +1,7 @@
 The Christmas Tree
 ==================
 
-The best Christmas tree of all time...
+The best Christmas tree of all time.
 
 See http://christmastree.herokuapp.com/
 
